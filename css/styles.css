@@ -1,0 +1,71 @@
+body{
+  font-family: Montserrat;
+}
+
+#title{
+  background-color:white;
+  color:#5B5656;
+}
+
+h1{
+  font-family:"Montserrat-Black";
+  font-size:3rem;
+  line-height:1.5;
+  position:relative;
+  padding-left: 10px;
+  font-weight:900;
+}
+
+.container-fluid{
+ padding:2% 10%;
+}
+
+.navbar{
+  color: #FFAE8F;
+  font-size:50px;
+}
+
+.nav-brand{
+  color:#FFAE8F;
+  font-family: 'Gochi Hand', cursive;
+}
+
+.fleur{
+  height:450px;
+  width:450px;
+  position:relative;
+  margin-left:120px;
+
+}
+
+.nav-item{
+  PADDING:0 15px;
+  font-size:17px;
+}
+
+
+.download-button{
+  margin:5% 3% 3% 0%;
+}
+
+#features{
+  margin-top:30px;
+  padding:100px;
+  color:black;
+  font-family:Montserrat;
+  font-weight:900;
+  font-size:25px;
+  font-style: italic;
+}
+
+#footer{
+  font-style: italic;
+  font-weight: 800;
+  text-align:center;
+}
+
+#pricing{
+  font-family:Montserrat;
+  font-size:30px;
+  font-weight:900;
+}
